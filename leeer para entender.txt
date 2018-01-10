@@ -1,0 +1,3 @@
+el sistema es de una empresa completa y es una base de datos centralisada a la cual pueden acceder
+los usuarios de forma remota y cada roll tiene sus tablas y su inventario 
+se despliegan 2 tiendas la 1 y la 2 y hay un contrl general que tiene acceso a todo
